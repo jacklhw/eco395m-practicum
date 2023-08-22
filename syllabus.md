@@ -2,7 +2,7 @@
 
 Unique Number: 34967
 
-Course Website: https://github.com/edkrueger/eco395-practicum
+Course Website: https://github.com/edkrueger/eco395m-practicum
 
 ## Class:
 
