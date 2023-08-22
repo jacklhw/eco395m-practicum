@@ -144,8 +144,35 @@ Therefore you will receive up to 20 points per standup and the results will be a
 
 # University Disclosures and Policies
 
-BOILERPLATE HERE
+## Statement on Academic Integrity and Conduct
+The University of Texas Honor Code states:  
 
+> The core values of The University of Texas at Austin are learning, discovery, freedom, leadership, individual opportunity, and responsibility. Each member of the university is expected to uphold these values through integrity, honesty, trust, fairness, and respect toward peers and community.
+
+Each student in this course is expected to abide by the UT Honor Code and uphold academic integrity.  
+
+*What this means for this course*:  
+For group projects, the Honor Code means that the work you represent as your contributions must be your own, that confidentiality of materials (including those on GitHub) is respected, and that standards of professionalism are maintained.
+
+## Sharing of Course Materials is Prohibited
+No materials used in this class, including, but not limited to, lecture hand-outs, assessments (homework assignments), in-class materials, and review sheets, may be shared online or with anyone outside of the class - or in future classes - unless you have my explicit, written permission. Unauthorized sharing of materials promotes cheating. It is a violation of the University’s Student Honor Code and an act of academic dishonesty. I am well aware of the sites used for sharing materials, and any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in sanctions, including failure in the course.
+
+## Class Recordings:
+Class recordings are reserved only for students in this class for educational purposes and are protected under FERPA. The recordings should not be shared outside the class in any form. Violation of this restriction by a student could lead to Student Misconduct proceedings.
+
+## ADA Notice
+I am committed to creating an accessible and inclusive learning environment consistent with university policy and federal and state law. Please let me know if you experience any barriers to learning so I can work with you to ensure you have equal opportunity to participate fully in this course. If you are a student with a disability, or think you may have a disability, you may request appropriate academic accommodations by contacting Services for Students with Disabilities (SSD) at http://diversity.utexas.edu/disability/.
+
+## Harassment Reporting Requirements
+Under Texas Senate Bill 212 (SB 212), the professor and TAs for this course are required to report for further investigation any information concerning incidents of sexual harassment, sexual assault, dating violence, and stalking committed by or against a UT student or employee. Federal law and university policy also requires reporting incidents of sex‐ and gender‐based discrimination and sexual misconduct (collectively known as Title IX incidents). This means we cannot keep confidential information about any such incidents that you share with us. If you need to talk with someone who can maintain confidentiality, please contact University Health Services at https://healthyhorns.utexas.edu/ or the UT Counseling and Mental Health Center at https://cmhc.utexas.edu/. You can also make an appointment with a confidential advocate by emailing advocate@austin.utexas.edu or calling (512) 232-2860. We strongly urge you to make use of these services for any needed support and to report any Title IX incidents to the Title IX Office.
+
+## Wellbeing Resources:
+Grad school is hard. Take care of yourselves and others.
+* The Counseling and Mental Health Center serves UT’s diverse campus community by providing high quality, innovative and culturally informed mental health programs and services that enhance and support students’ well- being, academic and life goals. To learn more about your counseling and mental health options, call CMHC at (512) 471-3515.
+* Check out the Longhorn Wellness Center, and these self-care Virtual Mindfulness and Stress Reduction Activities.
+* If you are experiencing a mental health crisis, call the CMHC Crisis Line 24/7 at (512) 471-2255.
+* If you have concerns about the safety or behavior of fellow students, TAs or Professors, call BCCAL (the Behavior Concerns and COVID-19 Advice Line): 512-232-5050. Your call can be anonymous. If something doesn’t feel right – it probably isn’t. Trust your instincts and share your concerns.
+  
 ---
 
 # Course Schedule
