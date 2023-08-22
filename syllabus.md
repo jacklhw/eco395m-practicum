@@ -37,11 +37,11 @@ Although important parts of the learning process take place during scheduled cla
 
 The course aims to assist students in achieving the following objectives:
 
-• Acquire advanced insights into data science by applying theoretical concepts to real-world situations.
-• Develop proficiency in the role of a data science consultant, gaining firsthand experience in collaborative problem-solving within a team to address data-related challenges.
-• Create relevant data science-related accomplishments that you can add to your resumes and discuss in interviews.
-• Enhance portfolios with hands-on experience and practical projects showcasing data science expertise.
-• Foster the development of insights and networking connections that can have a positive impact on one's professional journey.
+* Acquire advanced insights into data science by applying theoretical concepts to real-world situations.
+* Develop proficiency in the role of a data science consultant, gaining firsthand experience in collaborative problem-solving within a team to address data-related challenges.
+* Create relevant data science-related accomplishments that you can add to your resumes and discuss in interviews.
+* Enhance portfolios with hands-on experience and practical projects showcasing data science expertise.
+* Foster the development of insights and networking connections that can have a positive impact on one's professional journey.
 
 
 ## Course Policies
